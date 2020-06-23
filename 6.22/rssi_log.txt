@@ -1,0 +1,19 @@
+Discovery started
+hci0 type 7 discovering on
+hci0 dev_found: 6E:54:52:B4:3F:CC type LE Random rssi -50 flags 0x0004
+AD flags 0x00
+eir_len 31
+hci0 dev_found: A8:34:6A:4C:6C:65 type LE Public rssi -56 flags 0x0000
+AD flags 0x1a
+eir_len 13
+hci0 dev_found: 71:C0:EF:8E:93:53 type LE Random rssi -93 flags 0x0000
+AD flags 0x1a
+eir_len 14
+hci0 dev_found: 56:7E:6A:C7:C5:91 type LE Random rssi -55 flags 0x0004
+AD flags 0x00
+eir_len 38
+hci0 dev_found: 71:C0:EF:8E:93:53 type LE Random rssi -94 flags 0x0004
+AD flags 0x00
+eir_len 0
+hci0 dev_found: 51:26:1D:47:1A:FA type LE Random rssi -95 flags 0x0004
+AD flags 0x00

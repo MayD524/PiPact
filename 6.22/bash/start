@@ -1,0 +1,6 @@
+#!/usr/bash
+
+sudo btmgmt find > ~/pibt/rssi_log.txt
+
+cd ~/pibt
+python3 ~/pibt/get_rssi.py
